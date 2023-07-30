@@ -1,2 +1,0 @@
-# Clal
-Mavi tik alınır 
